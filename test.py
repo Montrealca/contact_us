@@ -1,0 +1,3 @@
+Test="mani"
+print(Test)
+
